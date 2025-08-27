@@ -1,12 +1,20 @@
 {
-  "name": "npm-intro",
+  "name": "npm-intro-demo-amars",
   "version": "1.0.0",
+  "description": "A simple npm package demonstrating basic Node.js functionality and npm workflow",
   "main": "index.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
   },
-  "keywords": [],
-  "author": "",
+  "keywords": ["demo", "tutorial", "npm", "nodejs", "utilities"],
+  "author": "AMars",
   "license": "ISC",
-  "description": ""
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/VerifiedError/npm-intro.git"
+  },
+  "homepage": "https://github.com/VerifiedError/npm-intro#readme",
+  "bugs": {
+    "url": "https://github.com/VerifiedError/npm-intro/issues"
+  }
 }
